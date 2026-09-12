@@ -36,7 +36,7 @@ Constructed in **Pure C++** using the **Bloodsheed / Embarcadero Dev-C++** envir
 * **Automated Score Arbitration ($\Delta > 5$)**:
   * Automatically calculates total score aggregates and arithmetic means between both evaluators.
   * Dynamically computes score variance:
-    $$\Delta = |\text{Score}_{\text{Supervisor}} - \text{Score}_{\text{Moderator}}|$$
+    $$\Delta = |\text{Score}(\text{Supervisor}) - \text{Score}(\text{Moderator})|$$
   * When $\Delta > 5$, the system triggers an explicit **Moderation Discrepancy Flag**, highlighting records that require academic committee arbitration.
 * **Academic Analytics & Performance Distribution**: Generates cohort-wide grade summaries, computing distinctions, pass distributions, failures, and class performance metrics.
 
