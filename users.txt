@@ -1,0 +1,35 @@
+001,ADMIN,admin@gmail.com,12341234,Admin
+1001234,LEE,lee@gmail.com,12341234,Lecturer
+1102345,KOH,koh@gmail.com,22222222,Lecturer
+1203456,TAN,tan@gmail.com,33333333,Lecturer
+1304567,LIM,lim@gmail.com,44444444,Lecturer
+1405678,ONG,ong@gmail.com,55555555,Lecturer
+1506789,WAN,wan@gmail.com,66666666,Lecturer
+1607890,CHAN,chan@gmail.com,77777777,Lecturer
+1708901,GOH,goh@gmail.com,88888888,Lecturer
+1809012,CHIN,chin@gmail.com,99999999,Lecturer
+1900123,TEO,teo@gmail.com,11223344,Lecturer
+2001234,ALAN,alan@gmail.com,11112222,Student
+2002345,BRIAN,brian@gmail.com,22223333,Student
+2003456,CHARLIE,charlie@gmail.com,33334444,Student
+2004567,DAVID,david@gmail.com,44445555,Student
+2005678,EDDY,eddy@gmail.com,55556666,Student
+2101234,FAIZ,faiz@gmail.com,66667777,Student
+2102345,GAN,gan@gmail.com,77778888,Student
+2103456,HARIS,haris@gmail.com,88889999,Student
+2104567,IVAN,ivan@gmail.com,99990000,Student
+2105678,JASON,jason@gmail.com,12344321,Student
+2201234,KAREN,karen@gmail.com,23455432,Student
+2202345,LISA,lisa@gmail.com,34566543,Student
+2203456,MONA,mona@gmail.com,45677654,Student
+2204567,NICK,nick@gmail.com,56788765,Student
+2205678,OLIVIA,olivia@gmail.com,67899876,Student
+2301234,PETER,peter@gmail.com,78910987,Student
+2302345,QUEENIE,queenie@gmail.com,89021098,Student
+2303456,RYAN,ryan@gmail.com,90132109,Student
+2304567,SARAH,sarah@gmail.com,13572468,Student
+2305678,TOM,tom@gmail.com,24681357,Student
+2401217,CHY,chy@gmail.com,1234567890,Lecturer
+2401444,LAI JIE YING,jieying@gmail.com,12341234,Student
+2402503,CHOK SHI YING,ying@gmail.com,12345678,Student
+1234,JY,jy@gmail.com,12341234,Student

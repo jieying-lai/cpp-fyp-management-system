@@ -1,0 +1,7 @@
+StudentID,StudentName,TitleID,TitleName,SupervisorID,ModeratorID,FYP1_Report_S,FYP1_Report_M,FYP1_Report_Avg,FYP1_Pres_S,FYP1_Pres_M,FYP1_Pres_Avg,FYP1_Effort_S,FYP1_Effort_M,FYP1_Effort_Avg,FYP1_Total,FYP2_Report_S,FYP2_Report_M,FYP2_Report_Avg,FYP2_Demo_S,FYP2_Demo_M,FYP2_Demo_Avg,FYP2_Pres_S,FYP2_Pres_M,FYP2_Pres_Avg,FYP2_Effort_S,FYP2_Effort_M,FYP2_Effort_Avg,FYP2_Total,Overall
+2001234,ALAN,T001,Developing of an IoT Based Smart Parking System,1001234,1102345,13,13,13.5,9,9,9,5,0,5,27.5,19,19,19,34,35,34.5,9,9,9,5,0,5,67.5,95
+2002345,BRIAN,T002,Data hiding methods in High dynamic range (HDR) images,1102345,1001234,14,15,14.5,10,7,8.5,5,0,5,28,15,19,17,28,33,30.5,8,9,8.5,5,0,5,61,89
+2003456,CHARLIE,T006,Combination of Generative Artificial Intelligence and Deep Reinforcement Learning: Performance Comparison,1506789,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2004567,DAVID,T003,App to manage assets and inventory,1203456,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2401444,LAI JIE YING,T010,Development of an IoT-Integrated App for Monitoring Hydroponic Farming Systems,1900123,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2402503,CHOK SHI YING,T021,A Quantitative Approach on Sustainable Construction's Blockchain Technology Awareness on Trust Issue and Change Resistance,1001234,1102345,1,10,5.5,9,4,6.5,4,0,4,16,15,14,14.5,33,30,31.5,7,5,6,4,0,4,56,72

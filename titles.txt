@@ -1,0 +1,40 @@
+T001,Developing of an IoT Based Smart Parking System,Smart system to detect and display parking availability,IoT,Arduino;C++,1001234,APPROVED
+T002,Data hiding methods in High dynamic range (HDR) images,Hide secret data in HDR images,Image Processing,Python;OpenCV,1102345,APPROVED
+T003,App to manage assets and inventory,App to manage assets and inventory,Web App,Java;MySQL,1203456,APPROVED
+T004,Malaysia Integrated EV Charging Information System,App to show EV charging station info,Web App,Java;Firebase,1304567,APPROVED
+T005,Mobile-based Patient's Healthcare Management System,Mobile app to store and manage patient data,Web App,Flutter;Firebase,1405678,APPROVED
+T006,Combination of Generative Artificial Intelligence and Deep Reinforcement Learning: Performance Comparison,Compare two AI methods using datasets,AI Developing,Python;TensorFlow,1506789,APPROVED
+T007,Develop a customizable VR environment that supports the integration of eye tracking technology for paralyze patient,VR app for rehabilitation,VR Developing,Unity;C#,1607890,PENDING
+T008,Intelligent Home Design Hub,App to design smart homes,Web App,React;MySQL,1708901,PENDING
+T009,A Mobile Application Development for Water Potability Prediction via Machine Learning Models,Mobile app to predict water safety,AI Developing,Python;Scikit-learn,1809012,PENDING
+T010,Development of an IoT-Integrated App for Monitoring Hydroponic Farming Systems,IoT app for farming conditions,IoT,Arduino;MQTT,1900123,APPROVED
+T011,Arduino for Physics Electronics Experiments,Use Arduino for physics teaching,IoT,Arduino;C++,1001234,APPROVED
+T012,Web Application Development for Person Counting,Web app to count people using camera,Web App,Python;OpenCV,1102345,PENDING
+T013,Stock Screening and Recommendation System for Singapore Real Estate Investment Trust,App to screen REIT stocks,Web App,Python;MySQL,1203456,PENDING
+T014,Mining significant factors associated with defensive stocks from consumer products & services sector of Bursa Malaysia,Analyze defensive stocks,Data Analysis,Python;Pandas,1304567,PENDING
+T015,Real-Time Microplastic Detection in Marine Environments Using Edge AI,Detect microplastics in real time,Image Processing,Python;TensorFlow,1405678,PENDING
+T016,Student Ride-Sharing Mobile Application for UTAR Sungai Long,Carpool app for students,Mobile App,Java;Firebase,1506789,PENDING
+T017,The use of transformer model to detect fraud in credit card transaction,Fraud detection using transformer,AI Developing,Python;PyTorch,1607890,PENDING
+T018,EcoTrack AI: A Personalized Carbon Footprint Tracker,Track and reduce carbon footprint,AI Developing,Python;TensorFlow,1708901,PENDING
+T019,Sizing Tool for Solar PV and Battery Systems,Tool to calculate solar system size,Web App,Java;Excel,1809012,PENDING
+T020,AI Personalized Tutor for University Students,AI tutor for learning support,AI Developing,Python;NLP,1900123,PENDING
+T021,A Quantitative Approach on Sustainable Construction's Blockchain Technology Awareness on Trust Issue and Change Resistance,Study on trust and resistance in blockchain for sustainable construction,Construction;Blockchain,Knowledge of blockchain basics,1001234,APPROVED
+T022,On Self-Supervised Contrastive Learning via Neural Collapse,Research on self-supervised learning techniques using neural collapse in deep learning,AI;Machine Learning,Python;Deep Learning,1102345,PENDING
+T023,Application of Optimization Techniques in Portfolio Management,Using optimization algorithms for financial portfolio management,Finance;Optimization,Python;Statistics,1203456,PENDING
+T024,Mobile-based Location Services for Event Management,Design a mobile app providing location services for managing events,Mobile App;IoT,Java;Mobile Development,1304567,PENDING
+T025,Gamified Mood and Wellness Journal,An app to track mood and wellness using gamification techniques,Health Tech;Mobile App,Python;UI/UX Design,1405678,PENDING
+T026,Intelligent Document Classification System for Automated Bank Loan Approval,Automating bank loan approval with intelligent document classification,AI;Banking,NLP;Python,1506789,PENDING
+T027,Web-based IT Service Management (ITSM) System for Service Request Management,Design a web system to manage IT service requests efficiently,Web Development;ITSM,HTML;CSS;JavaScript,1607890,PENDING
+T028,Course and University Recommendation System using Machine Learning,Recommending courses and universities based on student profile and ML,AI;Education,Python;Machine Learning,1708901,PENDING
+T029,AI-Powered Social Media Content Creator: Automating Engaging and Optimized Content Generation,Create AI system to generate optimized social media content,AI;Social Media,NLP;Python,1809012,PENDING
+T030,Smart Mobile Application for Resume Building and Career Advisory Services,Mobile app to assist users in resume creation and career guidance,Mobile App;Career Tech,Java;UI/UX,1900123,PENDING
+T031,Price Comparison Website for Online Shopping,Develop a website comparing prices across e-commerce platforms,Web Dev;E-Commerce,HTML;CSS;JavaScript,1001234,PENDING
+T032,Enhancing Diversity in Deepfake Detection Datasets,Research to improve dataset diversity for detecting deepfakes,AI;Security,Python;Deep Learning,1102345,PENDING
+T033,LiDAR-based Freespace Detection and Path Planning for Autonomous Navigation,Using LiDAR to detect free space and plan paths for robots/vehicles,Robotics;Autonomous Systems,C++;Robotics,1203456,PENDING
+T034,A Web Application to Help Novice Players in PalWorld,Web platform assisting new players with guides and tips,Web Development;Gaming,HTML;CSS;JavaScript,1304567,PENDING
+T035,Self-Hosted Multi-Agent RAG System for Contextual Document Processing,Implement multi-agent retrieval-augmented generation system for documents,AI;NLP,Python;Machine Learning,1405678,PENDING
+T036,Text-Based Emotion Detection Using Deep Learning,Detect emotions from text using deep learning techniques,AI;NLP,Python;Deep Learning,1506789,PENDING
+T037,Automated Face Recognition System for Enhanced Security and Convenience at UTAR Entrances,Face recognition system for campus access control,AI;Security,Python;OpenCV,1607890,PENDING
+T038,Phishing Website Detection Using Machine Learning Approaches,Detect phishing websites automatically using ML models,AI;Cybersecurity,Python;Machine Learning,1708901,PENDING
+T039,Student Academic Performance Prediction System Using Data Mining Techniques,Predict student grades and performance using data mining,AI;Education,Python;Data Analysis,1809012,PENDING
+T040,Intelligent Waste Collection Monitoring System Using IoT and Data Analytics,IoT system to monitor waste collection and optimize routes,IoT;Data Analytics,C++;IoT,1900123,PENDING

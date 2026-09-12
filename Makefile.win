@@ -1,0 +1,103 @@
+# Project: main
+# Makefile created by Dev-C++ 5.11
+
+CPP      = g++.exe
+CC       = gcc.exe
+WINDRES  = windres.exe
+OBJ      = main.o menu.o pauseAndClear.o register_user.o getMaskedPassword.o lecturer_view.o login.o read_user.o student_view.o update_profile.o admin_view.o editUserInfo.o createTitle.o searchTitle.o modifyTitle.o title_manage.o viewAllTitles.o registerANDconfirm.o shortlistANDregister.o viewFYP.o submitFYP.o gradeAsSupervisor.o gradeAsModerator.o aboutMarks.o listSupervisionOrModerationByLecturer.o summaryFYP.o
+LINKOBJ  = main.o menu.o pauseAndClear.o register_user.o getMaskedPassword.o lecturer_view.o login.o read_user.o student_view.o update_profile.o admin_view.o editUserInfo.o createTitle.o searchTitle.o modifyTitle.o title_manage.o viewAllTitles.o registerANDconfirm.o shortlistANDregister.o viewFYP.o submitFYP.o gradeAsSupervisor.o gradeAsModerator.o aboutMarks.o listSupervisionOrModerationByLecturer.o summaryFYP.o
+LIBS     = -L"C:/Program Files (x86)/Dev-Cpp/MinGW64/lib" -L"C:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/lib" -static-libgcc
+INCS     = -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include"
+CXXINCS  = -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++"
+BIN      = main.exe
+CXXFLAGS = $(CXXINCS) -std=c++11
+CFLAGS   = $(INCS) -std=c++11
+RM       = rm.exe -f
+
+.PHONY: all all-before all-after clean clean-custom
+
+all: all-before $(BIN) all-after
+
+clean: clean-custom
+	${RM} $(OBJ) $(BIN)
+
+$(BIN): $(OBJ)
+	$(CPP) $(LINKOBJ) -o $(BIN) $(LIBS)
+
+main.o: main.cpp
+	$(CPP) -c main.cpp -o main.o $(CXXFLAGS)
+
+menu.o: menu.cpp
+	$(CPP) -c menu.cpp -o menu.o $(CXXFLAGS)
+
+pauseAndClear.o: pauseAndClear.cpp
+	$(CPP) -c pauseAndClear.cpp -o pauseAndClear.o $(CXXFLAGS)
+
+register_user.o: register_user.cpp
+	$(CPP) -c register_user.cpp -o register_user.o $(CXXFLAGS)
+
+getMaskedPassword.o: getMaskedPassword.cpp
+	$(CPP) -c getMaskedPassword.cpp -o getMaskedPassword.o $(CXXFLAGS)
+
+lecturer_view.o: lecturer_view.cpp
+	$(CPP) -c lecturer_view.cpp -o lecturer_view.o $(CXXFLAGS)
+
+login.o: login.cpp
+	$(CPP) -c login.cpp -o login.o $(CXXFLAGS)
+
+read_user.o: read_user.cpp
+	$(CPP) -c read_user.cpp -o read_user.o $(CXXFLAGS)
+
+student_view.o: student_view.cpp
+	$(CPP) -c student_view.cpp -o student_view.o $(CXXFLAGS)
+
+update_profile.o: update_profile.cpp
+	$(CPP) -c update_profile.cpp -o update_profile.o $(CXXFLAGS)
+
+admin_view.o: admin_view.cpp
+	$(CPP) -c admin_view.cpp -o admin_view.o $(CXXFLAGS)
+
+editUserInfo.o: editUserInfo.cpp
+	$(CPP) -c editUserInfo.cpp -o editUserInfo.o $(CXXFLAGS)
+
+createTitle.o: createTitle.cpp
+	$(CPP) -c createTitle.cpp -o createTitle.o $(CXXFLAGS)
+
+searchTitle.o: searchTitle.cpp
+	$(CPP) -c searchTitle.cpp -o searchTitle.o $(CXXFLAGS)
+
+modifyTitle.o: modifyTitle.cpp
+	$(CPP) -c modifyTitle.cpp -o modifyTitle.o $(CXXFLAGS)
+
+title_manage.o: title_manage.cpp
+	$(CPP) -c title_manage.cpp -o title_manage.o $(CXXFLAGS)
+
+viewAllTitles.o: viewAllTitles.cpp
+	$(CPP) -c viewAllTitles.cpp -o viewAllTitles.o $(CXXFLAGS)
+
+registerANDconfirm.o: registerANDconfirm.cpp
+	$(CPP) -c registerANDconfirm.cpp -o registerANDconfirm.o $(CXXFLAGS)
+
+shortlistANDregister.o: shortlistANDregister.cpp
+	$(CPP) -c shortlistANDregister.cpp -o shortlistANDregister.o $(CXXFLAGS)
+
+viewFYP.o: viewFYP.cpp
+	$(CPP) -c viewFYP.cpp -o viewFYP.o $(CXXFLAGS)
+
+submitFYP.o: submitFYP.cpp
+	$(CPP) -c submitFYP.cpp -o submitFYP.o $(CXXFLAGS)
+
+gradeAsSupervisor.o: gradeAsSupervisor.cpp
+	$(CPP) -c gradeAsSupervisor.cpp -o gradeAsSupervisor.o $(CXXFLAGS)
+
+gradeAsModerator.o: gradeAsModerator.cpp
+	$(CPP) -c gradeAsModerator.cpp -o gradeAsModerator.o $(CXXFLAGS)
+
+aboutMarks.o: aboutMarks.cpp
+	$(CPP) -c aboutMarks.cpp -o aboutMarks.o $(CXXFLAGS)
+
+listSupervisionOrModerationByLecturer.o: listSupervisionOrModerationByLecturer.cpp
+	$(CPP) -c listSupervisionOrModerationByLecturer.cpp -o listSupervisionOrModerationByLecturer.o $(CXXFLAGS)
+
+summaryFYP.o: summaryFYP.cpp
+	$(CPP) -c summaryFYP.cpp -o summaryFYP.o $(CXXFLAGS)
