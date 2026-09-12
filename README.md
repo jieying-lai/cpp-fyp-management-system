@@ -7,7 +7,6 @@
   [![C++](https://img.shields.io/badge/C%2B%2B-11%20%7C%2014%20%7C%2017-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)](#)
   [![Paradigm](https://img.shields.io/badge/Paradigm-Structured%20%26%20Procedural-lightgrey?style=flat-square)](#)
   [![Persistence](https://img.shields.io/badge/Storage-File%20I%2FO%20(.txt)-blue?style=flat-square)](#)
-  [![Coursework](https://img.shields.io/badge/UTAR-UECS1004%20%2F%20UECS1104-blueviolet?style=flat-square)](#)
 
 </div>
 
@@ -17,7 +16,7 @@
 
 Coordinating undergraduate Final Year Projects (FYP) requires close synchronization between faculty supervisors, independent moderators, and students. Manual administration across topic allocation and independent double-blind evaluation often leads to score discrepancies, allocation collisions, and administrative delays.
 
-Engineered for the **UECS1004 / UECS1104 Programming and Problem Solving** curriculum at **Universiti Tunku Abdul Rahman (UTAR)**, this system automates end-to-end project registration, student shortlisting, and assessment moderation for the Department of Computing (DC) within the Lee Kong Chian Faculty of Engineering and Science (LKCFES).
+Engineered for the **UECS1104 Programming and Problem Solving** curriculum at **Universiti Tunku Abdul Rahman (UTAR)**, this system automates end-to-end project registration, student shortlisting, and assessment moderation for the Department of Computing (DC) within the Lee Kong Chian Faculty of Engineering and Science (LKCFES).
 
 Constructed in **Pure C++** without external library dependencies, the project highlights structured programming fundamentals, composite records using arrays of structures, defensive stream input parsing, and reliable text-file persistence.
 
