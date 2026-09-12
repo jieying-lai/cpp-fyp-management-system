@@ -99,7 +99,7 @@ fyp_system.exe
 
 ## 👥 Collaborative Engineering
 
-Developed as a coursework group assignment for **UECS1004/UECS1104 Programming and Problem Solving** (Department of Computing, LKCFES, UTAR).
+Developed as a coursework group assignment for **UECS1104 Programming and Problem Solving**.
 
 * **System Design & Flow Control**: Flowchart planning, menu hierarchies, and defensive user-input loops.
 * **Title & Registration Engine**: Implementation of project search filtering, candidate shortlisting, and structural file synchronization.
